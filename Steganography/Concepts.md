@@ -1,1 +1,2 @@
-The art of hiding sensitive information behind any medium (audio, images, etc often used by militry aswell to share sensitve informations making the message confediential yet visible)
+**Steganography** is the art of hiding sensitive information inside any medium — such as audio, images, or video.  
+It is often used by the military and intelligence agencies to share confidential information while keeping the message visible yet undetectable.
