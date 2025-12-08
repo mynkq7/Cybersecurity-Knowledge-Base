@@ -1,0 +1,1 @@
+The art of hiding sensitive information behind any medium (audio, images, etc often used by militry aswell to share sensitve informations making the message confediential yet visible)
