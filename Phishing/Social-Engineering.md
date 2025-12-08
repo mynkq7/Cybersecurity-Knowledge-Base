@@ -1,5 +1,8 @@
-Manipulating users into performing Specific action 
-involves 
-Establishing trust first 
-Creating urgency and Fear 
-Impersonating legitmate source 
+# Social Engineering
+
+Manipulating users into performing a specific action.
+
+### Involves
+- **Establishing trust first**
+- **Creating urgency and fear**
+- **Impersonating a legitimate source**
