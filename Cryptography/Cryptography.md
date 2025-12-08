@@ -1,1 +1,4 @@
-Protection of data by coverting them into unreadable form like hashes they cant be reversed unlike encryption 
+# Cryptography
+
+Protection of data by converting it into an unreadable form like hashes.  
+They cannot be reversed, unlike encryption.
