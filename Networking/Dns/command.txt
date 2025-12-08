@@ -1,0 +1,3 @@
+nslookup -type=NS com. a.root-servers.net
+nslookup -type=NS shopify.com a.gtld-servers.net
+nslookup shopify.com gold.foundationdns.org
