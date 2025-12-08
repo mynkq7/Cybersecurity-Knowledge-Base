@@ -1,6 +1,6 @@
 # Social Engineering
 
-Manipulating users into performing a specific action.
+Manipulating users into performing a specific actions.
 
 ### Involves
 - **Establishing trust first**
