@@ -4,6 +4,7 @@
 ## Tool to Extract Hidden Data From a File
 
 **Command:**
+
 stegseek --extract -sf <file name> -wl <wordlist>
 
 **Explanation:**
