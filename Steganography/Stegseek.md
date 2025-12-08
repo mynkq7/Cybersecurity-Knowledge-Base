@@ -5,7 +5,7 @@
 
 **Command:**
 
-stegseek --extract -sf <file name> -wl <wordlist>
+stegseek extract -sf <file name> -wl <wordlist>
 
 **Explanation:**
 - **extract** — used to extract hidden data  
