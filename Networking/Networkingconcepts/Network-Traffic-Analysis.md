@@ -48,6 +48,22 @@ tcp.port in {80 443 8080}
 tcp
 udp
 
+### **IP Address Filters**
+ip.addr == 192.168.1.1
+!(ip.addr == 192.168.1.1)
+
+### **Web Traffic Filters**
+http.request.url == "https://demo.testfire.net
+"
+http.host matches "acme.(org|com|net)"
+http.response.code == 200
+http.request.method == "GET"
+tcp contains "admin"
+
+### **Example Target IP**
+ip.addr == 172.16.2.36
+
+
 ### Filter Types
 - **Display Filter:** Filters packets displayed in the capture window  
 - **Capture Filter:** Filters packets before they are captured  
