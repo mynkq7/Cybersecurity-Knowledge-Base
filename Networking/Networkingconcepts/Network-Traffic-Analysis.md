@@ -41,6 +41,17 @@ Displays raw data / payload in **hexadecimal** and **ASCII** formats.
 ---
 
 ## Wireshark Filters
+
+### Filter Types
+- **Display Filter:** Filters packets displayed in the capture window  
+- **Capture Filter:** Filters packets before they are captured  
+- **GUI Filter Builder:** Create filters visually using the GUI  
+
+---
+
+## Common Filter Examples
+
+### **TCP/UDP Filters**
 tcp.port == 80
 tcp.srcport == 443
 tcp.port == 443 or tcp.port == 80
@@ -63,14 +74,25 @@ tcp contains "admin"
 ### **Example Target IP**
 ip.addr == 172.16.2.36
 
-
-### Filter Types
-- **Display Filter:** Filters packets displayed in the capture window  
-- **Capture Filter:** Filters packets before they are captured  
-- **GUI Filter Builder:** Create filters visually using the GUI  
-
 ---
 
-## Common Filter Examples
+## Capturing Traffic From Any Specific File / Website
 
-### **TCP/UDP Filters**
+1. First do **ping** to the site you want to capture traffic from:
+ping www.google.com
+
+2. Result gives IP address of the site → e.g., **142.250.193.36**
+
+3. Then apply filter in Wireshark:
+ip.addr == 142.250.193.36
+
+4. Combined filters:
+tcp and ip.addr == 142.250.193.36
+udp and ip.addr == 142.250.193.36
+
+This is typically used when **capturing passwords or sensitive traffic** (only in legal/authorized environments).
+
+
+
+
+
