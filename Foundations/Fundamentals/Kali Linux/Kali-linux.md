@@ -12,7 +12,7 @@ Kali Linux is a powerful open source Linux distribution tailored for penetration
 - Create a bootable USB drive or configure a virtual machine
 - Follow the installation wizard
 - Configure system settings such as user account, network, and updates
-Common Tools
+# Common Tools
 Nmap – network discovery and port scanning
 Metasploit – exploitation framework for testing and development
 Burp Suite – web application testing and proxying
