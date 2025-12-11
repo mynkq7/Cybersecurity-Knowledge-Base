@@ -52,27 +52,27 @@ Displays raw data / payload in **hexadecimal** and **ASCII** formats.
 ## Common Filter Examples
 
 ### **TCP/UDP Filters**
-tcp.port == 80
-tcp.srcport == 443
-tcp.port == 443 or tcp.port == 80
-tcp.port in {80 443 8080}
-tcp
-udp
+- tcp.port == 80
+- tcp.srcport == 443
+- tcp.port == 443 or tcp.port == 80
+- tcp.port in {80 443 8080}
+- tcp
+- udp
 
 ### **IP Address Filters**
-ip.addr == 192.168.1.1
-!(ip.addr == 192.168.1.1)
+- ip.addr == 192.168.1.1
+- !(ip.addr == 192.168.1.1)
 
 ### **Web Traffic Filters**
-http.request.url == "https://demo.testfire.net
+- http.request.url == "https://demo.testfire.net
 "
-http.host matches "acme.(org|com|net)"
-http.response.code == 200
-http.request.method == "GET"
-tcp contains "admin"
+- http.host matches "acme.(org|com|net)"
+- http.response.code == 200
+- http.request.method == "GET"
+- tcp contains "admin"
 
 ### **Example Target IP**
-ip.addr == 172.16.2.36
+- ip.addr == 172.16.2.36
 
 ---
 
