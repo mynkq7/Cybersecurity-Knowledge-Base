@@ -1,4 +1,4 @@
-# Unified Kill Chain — Overview
+# Unified Kill Chain
 
 # Concept
 A combined framework that merges attacker motivations, tactics, and methodologies (drawing from models like the Cyber Kill Chain, MITRE ATT&CK, etc.). It explains how attackers plan, gain access, move through systems, and achieve objectives.
