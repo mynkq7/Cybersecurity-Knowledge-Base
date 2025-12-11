@@ -13,7 +13,7 @@ Useful for security operations and threat modeling
 - Assess — Analyze risk, impact, and likelihood
 - Plan — Strategy for mitigation, protection, and response
 - Policies / Controls — Rules, configurations, procedures implemented
-- 3. Unified Kill Chain — 18 Phases
+# Unified Kill Chain — 18 Phases
 - Reconnaissance — Research target, gather information
 - Weaponization — Create malware/tool/attack vector
 - Delivery — Send malware (email, USB, link, etc.)
