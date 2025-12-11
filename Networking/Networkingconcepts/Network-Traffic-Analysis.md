@@ -41,6 +41,12 @@ Displays raw data / payload in **hexadecimal** and **ASCII** formats.
 ---
 
 ## Wireshark Filters
+tcp.port == 80
+tcp.srcport == 443
+tcp.port == 443 or tcp.port == 80
+tcp.port in {80 443 8080}
+tcp
+udp
 
 ### Filter Types
 - **Display Filter:** Filters packets displayed in the capture window  
