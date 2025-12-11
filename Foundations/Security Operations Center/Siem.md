@@ -1,4 +1,4 @@
-Security Information and Event Management (SIEM)
+# Security Information and Event Management (SIEM)
 Overview
 SIEM stands for Security Information and Event Management.
 It provides centralized logging and security visibility across an organization.
