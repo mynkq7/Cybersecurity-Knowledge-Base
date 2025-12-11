@@ -2,16 +2,16 @@
 
 Kali Linux is a powerful open source Linux distribution tailored for penetration testing and security auditing. It provides a comprehensive suite of tools used for ethical hacking and security research.
 
-Key Features
-Preinstalled security tools ready to use out of the box
-Highly customizable environment
-User friendly interface for security workflows
-Cross platform support that can run as a live USB, VM, or installed OS
-Installation Process
-Download the Kali Linux ISO
-Create a bootable USB drive or configure a virtual machine
-Follow the installation wizard
-Configure system settings such as user account, network, and updates
+# Key Features
+- Preinstalled security tools ready to use out of the box
+- Highly customizable environment
+- User friendly interface for security workflows
+- Cross platform support that can run as a live USB, VM, or installed OS
+# Installation Process
+- Download the Kali Linux ISO
+- Create a bootable USB drive or configure a virtual machine
+- Follow the installation wizard
+- Configure system settings such as user account, network, and updates
 Common Tools
 Nmap – network discovery and port scanning
 Metasploit – exploitation framework for testing and development
