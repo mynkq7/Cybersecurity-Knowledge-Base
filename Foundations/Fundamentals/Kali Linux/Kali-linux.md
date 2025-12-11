@@ -13,11 +13,11 @@ Kali Linux is a powerful open source Linux distribution tailored for penetration
 - Follow the installation wizard
 - Configure system settings such as user account, network, and updates
 # Common Tools
-Nmap – network discovery and port scanning
-Metasploit – exploitation framework for testing and development
-Burp Suite – web application testing and proxying
-Usage in Penetration Testing
-Identifying vulnerabilities by scanning and enumerating targets
-Gaining unauthorized access by exploiting vulnerabilities ethically
-Maintaining access to test persistence mechanisms
+- Nmap – network discovery and port scanning
+- Metasploit – exploitation framework for testing - and development
+- Burp Suite – web application testing and proxying
+# Usage in Penetration Testing
+- Identifying vulnerabilities by scanning and enumerating targets
+- Gaining unauthorized access by exploiting vulnerabilities ethically
+- Maintaining access to test persistence mechanisms
 Privilege escalation to demonstrate potential risk from limited access
