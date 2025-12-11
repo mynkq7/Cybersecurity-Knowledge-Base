@@ -24,23 +24,23 @@ Enables detection of complex attack patterns or multi-step intrusions.
 Creates and sends real-time alerts of potential security incidents to the SOC or security team for immediate review.
 # SIEM Features and Capabilities
 # Threat Hunting
-Identifies and investigates unknown or advanced threats that bypass traditional security measures.
-Uses behavioral analytics, threat intelligence, and anomaly detection.
-Reporting and Dashboards
-Generates custom reports and visual dashboards to support decision-making and security posture review.
-Access Control
-Protects sensitive information and ensures only authorized personnel can access or modify SIEM data.
-Incident Response
-Facilitates prompt and effective responses to security incidents.
-Provides comprehensive forensic data, automated playbooks, and real-time investigation tools.
-Popular SIEM Tools
-Splunk Enterprise Security
-IBM QRadar
-ArcSight (Micro Focus)
-LogRhythm
-Microsoft Sentinel
-AlienVault (AT&T Cybersecurity)
-ELK Stack (Elasticsearch, Logstash, Kibana)
+- Identifies and investigates unknown or advanced threats that bypass traditional security measures.
+- Uses behavioral analytics, threat intelligence, and anomaly detection.
+# Reporting and Dashboards
+-Generates custom reports and visual dashboards to support decision-making and security posture review.
+# Access Control
+- Protects sensitive information and ensures only authorized personnel can access or modify SIEM data.
+# Incident Response
+- Facilitates prompt and effective responses to security incidents.
+- Provides comprehensive forensic data, automated playbooks, and real-time investigation tools.
+# Popular SIEM Tools
+- Splunk Enterprise Security
+- IBM QRadar
+- ArcSight (Micro Focus)
+- LogRhythm
+- Microsoft Sentinel
+- AlienVault (AT&T Cybersecurity)
+- ELK Stack (Elasticsearch, Logstash, Kibana)
 Log Files
 
 Overview
