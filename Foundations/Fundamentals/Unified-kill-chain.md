@@ -9,7 +9,7 @@ Understand, predict, and defend against attacks
 Connect attacker actions, behavior, and goals into a single timeline
 Useful for security operations and threat modeling
 # Threat Modeling (Steps)
--1 Identify — What assets, threats, or vulnerabilities exist?
+- Identify — What assets, threats, or vulnerabilities exist?
 - Assess — Analyze risk, impact, and likelihood
 - Plan — Strategy for mitigation, protection, and response
 - Policies / Controls — Rules, configurations, procedures implemented
