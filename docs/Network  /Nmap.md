@@ -101,4 +101,3 @@ Timing options
 Output formats
 
 Script usage
-
