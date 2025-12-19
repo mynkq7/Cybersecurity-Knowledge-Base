@@ -14,7 +14,7 @@ and how security failures occur.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 - Build strong cybersecurity fundamentals
 - Organize security knowledge by domain
@@ -24,7 +24,7 @@ and how security failures occur.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 .
