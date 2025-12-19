@@ -94,12 +94,12 @@ To view available options and usage:
 ```bash
 nmap --help
 ```
-This command provides:
+## This command provides:
 
-Scan types
+- Scan types
 
-Timing options
+- Timing options
 
-Output formats
+- Output formats
 
-Script usage
+- Script usage
