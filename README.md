@@ -49,7 +49,7 @@ Domain folders → topic-wise organization for focused learning
 
 ---
 
-🧠 Learning Philosophy
+# 🧠 Learning Philosophy
 
 Fundamentals before tools
 
