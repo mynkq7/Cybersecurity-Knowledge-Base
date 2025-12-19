@@ -44,3 +44,27 @@ and how security failures occur.
 - **Root README** → explains the repository and its intent  
 - **docs/** → theory, concepts, frameworks, and explanations  
 - **Domain folders** → topic-wise organization for focused learning
+
+🧠 Learning Philosophy
+
+Fundamentals before tools
+
+Understand before exploiting
+
+Ethics first, always
+
+No copy-paste learning
+
+Build knowledge that compounds over time
+
+
+This repository is designed to scale naturally as understanding deepens.
+
+
+---
+
+⚠️ Disclaimer
+
+All content in this repository is intended for educational purposes only.
+
+The author does not promote or encourage illegal activity. Any security concepts discussed are meant for learning, labs, defensive awareness, and authorized testing environments only.
