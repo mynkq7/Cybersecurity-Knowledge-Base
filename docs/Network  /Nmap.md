@@ -84,7 +84,7 @@ Based on how the target responds, Nmap determines:
 ### NSE Script Location
 ```bash
 /usr/share/nmap/scripts
-
+```bash
 
 ## Getting Help in Nmap
 
