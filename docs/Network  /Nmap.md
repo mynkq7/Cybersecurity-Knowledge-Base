@@ -93,3 +93,13 @@ To view available options and usage:
 
 ```bash
 nmap --help
+```
+This command provides:
+
+Scan types
+
+Timing options
+
+Output formats
+
+Script usage
