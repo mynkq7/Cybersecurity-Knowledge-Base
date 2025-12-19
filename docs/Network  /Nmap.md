@@ -85,6 +85,7 @@ Based on how the target responds, Nmap determines:
 ```bash
 /usr/share/nmap/scripts
 
+
 ## Getting Help in Nmap
 
 To view available options and usage:
