@@ -86,3 +86,18 @@ Based on how the target responds, Nmap determines:
 ```bash
 /usr/share/nmap/scripts
 ---
+Getting Help in Nmap
+
+To view available options and usage:
+
+nmap --help
+
+This command provides:
+
+Scan types
+
+Timing options
+
+Output formats
+
+Script usage
