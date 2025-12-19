@@ -47,15 +47,15 @@ and how security failures occur.
 
 ### Learning Philosophy
 
-Fundamentals before tools
+- Fundamentals before tools
 
-Understand before exploiting
+- Understand before exploiting
 
-Ethics first, always
+- Ethics first, always
 
-No copy-paste learning
+- No copy-paste learning
 
-Build knowledge that compounds over time
+- Build knowledge that compounds over time
 
 
 This repository is designed to scale naturally as understanding deepens.
@@ -63,7 +63,7 @@ This repository is designed to scale naturally as understanding deepens.
 
 ---
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 All content in this repository is intended for educational purposes only.
 
