@@ -24,7 +24,7 @@ and how security failures occur.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 .
