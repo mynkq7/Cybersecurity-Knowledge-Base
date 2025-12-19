@@ -3,35 +3,37 @@
 # Cybersecurity Knowledge Base
 
 Status: **Active**  
-Focus: **Learning, Documentation & Hands-on Practice**
+Type: **Learning • Documentation • Knowledge System**
 
 This repository is a structured cybersecurity knowledge base built through
-hands-on learning, notes, and practical exploration of security concepts.
+continuous learning, hands-on study, and clear documentation of core security concepts.
 
-It is not a collection of ready-made exploits.
-It is a **learning-first repository** focused on understanding how systems,
-networks, and applications work — and how they fail.
+It is **not** a collection of ready-made exploits or attack tools.
+It focuses on understanding **how systems, networks, and applications work** —
+and how security failures occur.
 
 ---
 
-##  Purpose
+## 🎯 Purpose
 
 - Build strong cybersecurity fundamentals
 - Organize security knowledge by domain
-- Document learning with clarity and honesty
-- Serve as a long-term reference
+- Document learning clearly and honestly
+- Maintain a long-term personal reference
+- Create a solid foundation before advanced tooling or exploitation
 
 ---
 
-##  Repository Structure
+## 📁 Repository Structure
 
 ```text
 .
-├── Cryptography/
-├── Foundations/
-├── Networking/
-├── Phishing/
-├── Steganography/
-├── Web-Application-pentesting/
+├── docs/
+│   ├── Cryptography/
+│   ├── Foundations/
+│   ├── Networking/
+│   ├── Phishing/
+│   ├── Steganography/
+│   └── Web-Application-pentesting/
 ├── README.md
 └── LICENSE
