@@ -45,7 +45,7 @@ and how security failures occur.
 - **docs/** → theory, concepts, frameworks, and explanations  
 - **Domain folders** → topic-wise organization for focused learning
 
-🧠 Learning Philosophy
+### Learning Philosophy
 
 Fundamentals before tools
 
