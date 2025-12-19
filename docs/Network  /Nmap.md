@@ -81,8 +81,8 @@ Based on how the target responds, Nmap determines:
   - Authentication checks
   - Configuration analysis
 
-### NSE Script Location
+## NSE Script Location
+
 ```bash
 /usr/share/nmap/scripts
-```bash
 
