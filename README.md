@@ -14,7 +14,7 @@ networks, and applications work — and how they fail.
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 - Build strong cybersecurity fundamentals
 - Organize security knowledge by domain
@@ -23,7 +23,7 @@ networks, and applications work — and how they fail.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 .
