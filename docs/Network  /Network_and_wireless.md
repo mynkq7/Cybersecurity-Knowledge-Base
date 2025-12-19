@@ -1,70 +1,70 @@
 # Network Vulnerabilities
 
-Networks often suffers from common vulnerabilities like:
-- Weak password
+Networks often suffer from common vulnerabilities such as:
+- Weak passwords
 - Misconfiguration
-- Outdated Systems
+- Outdated systems
 
 ---
 
-## Man in the Middle Attacks
+## Man-in-the-Middle (MITM) Attacks
 
-Man in the middle attacks allows an hacker to:
-- eavedrop
-- Alter Messages
+A Man-in-the-Middle attack allows an attacker to:
+- Eavesdrop on communication
+- Alter or manipulate messages between two parties
 
 ---
 
-## Denial of Services
+## Denial of Service (DoS)
 
-Attacker can overwhelm the server with the large number of traffic which server is capable of hence making it inaccisble
+In a Denial of Service attack, an attacker overwhelms a server with more traffic than it can handle, making the service unavailable to legitimate users.
 
 ---
 
 # Wireless Protocols and Attacks
 
 ## Wi-Fi Security Protocols
-- WPA 2
-- WPA 3  
+- **WPA2**
+- **WPA3**
 
-Are commonly used protocols that helps protect wireless data
+These are commonly used protocols that help protect wireless data from unauthorized access.
 
 ---
 
 ## Evil Twin Attack
 
-An attacker can create a fake wifi network pretending as its legitimate to collect data from unsuspicious users
+In an Evil Twin attack, an attacker creates a fake Wi-Fi network that appears legitimate in order to collect data from unsuspecting users.
 
 ---
 
 ## WPS Vulnerabilities
 
-Wifi protected has vulnerabilities that can be exploited by attacker to gain unauthorise acess to the network
+Wi-Fi Protected Setup (WPS) contains vulnerabilities that can be exploited by attackers to gain unauthorized access to a wireless network.
 
 ---
 
 # Securing the Network
 
 ## Firewall
-- Monitors all inbound and outbond traffic (what is comming in and whats going out?)
-- All networks have firewalls to protect the network
+- Monitors all inbound and outbound traffic (what is coming in and going out)
+- Used to protect networks from unauthorized access
 
-### Some examples of firewall companies
-- paul Alto
+### Examples of Firewall Vendors
+- Palo Alto Networks
 - Cisco
-- Pfsense
+- pfSense
 
 ---
 
 ## Regular Updates
 
-Keeping all software and firmware is crucial for securing networks against vulnerabilities that a hacker can exploit
+Keeping software and firmware up to date is crucial for securing networks against vulnerabilities that attackers can exploit.
 
 ---
 
 ## Strong Password Policies
-- Creating strong passwords and regularly changing them significantly enhance network security
-- prone to bruteforce
+- Creating strong passwords and changing them regularly enhances network security
+- Weak passwords are prone to brute-force attacks
 
 ---
 
@@ -72,61 +72,57 @@ Keeping all software and firmware is crucial for securing networks against vulne
 
 ## Purpose of Ethical Hacking
 
-Ethical hacker test the systems not to exploit them but to find and fix vulnerabilities
+Ethical hackers test systems not to exploit them, but to identify and fix security vulnerabilities.
 
 ---
 
-## Pentesting Methodologies
+## Penetration Testing Methodologies
 
-Structured methodologies like:
-- OWASP Top 10  
+Structured methodologies such as:
+- **OWASP Top 10**
 
-Used to identify vulnerabilities
+Are used to identify and categorize common security vulnerabilities.
 
 ---
 
 # Incident Response Strategy
 
-If network got compromised
+## Developing an Incident Response Plan
 
----
-
-## Developing Incident Response Plan
-
-Organisations should create a detailes incident response plan to handle security breaches efficently
+Organizations should create a detailed incident response plan to handle security breaches efficiently.
 
 ---
 
 ## Threat Detection Tools
 
-Implementing tools that monitor and anlyze traffic can help in early detection of potential security incidents
+Implementing tools that monitor and analyze network traffic helps in early detection of potential security incidents.
 
-For example – implementation of:
-- firewalls
-- threat detection tools
-
----
-
-## Post Incident Review
-
-After security event, conducting through review can help minimaize weakness and improve future incidents response strategies
+Examples include:
+- Firewalls
+- Threat detection and monitoring tools
 
 ---
 
-# How Network Security Will Help in Future
+## Post-Incident Review
+
+After a security incident, conducting a thorough review helps minimize weaknesses and improve future incident response strategies.
+
+---
+
+# How Network Security Helps in the Future
 
 ## Emerging Technologies
 
-Artificial intelligence and machine learning are shaping security
+Artificial Intelligence and Machine Learning are shaping the future of cybersecurity.
 
 ---
 
 ## Zero Trust Architecture
 
-Assume threts within and outside the network
+Zero Trust assumes threats exist both inside and outside the network and enforces strict verification for every access request.
 
 ---
 
 ## Continuous Learning
 
-Staying updated in security is essential
+Staying updated with evolving security threats and technologies is essential for effective network security.
